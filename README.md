@@ -2,9 +2,9 @@
 
  Repo for small projects that don't have a place elsewhere
 
-Contents:
+**Contents:**
 
-* Uni/Year1/Review_Week
-  * Caesar Cipher
-    * Language:
-      * C++
+* Location: Uni/Year1/Review_Week
+  * Project: Caesar Cipher
+    * Language: C++
+    * Description: Caesar Cipher in C++
