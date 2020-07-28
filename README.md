@@ -4,9 +4,7 @@
 
 Contents:
 
-* Uni
-  * Year1
-    * Review Week
-      * Caesar Cipher
-        * Language:
-          * C++
+* Uni/Year1/Review_Week
+ * Caesar Cipher
+  * Language:
+    * C++
